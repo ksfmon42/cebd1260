@@ -1,0 +1,4 @@
+[Acronis, Autodesk, AVG, BitDefender, Borland, Business Objects, CA, Corel, DeLorme, Enfocus, ESET, 
+FileMaker, H&R Block, Infinite Skills, Insperity, Intuit, Kaspersky, MakerBot, McAfee, Microsoft, Microsoft 
+Surface, Nero, Nuance, Parallels, Punch, Quark, QuickBooks, Quicken, Roxio, Sage, SoftwareMedia, Sony, 
+StorageCraft, Symantec, Techsmith, Thomson Reuters, Trend Micro, V7, Veeam, VMware ]
